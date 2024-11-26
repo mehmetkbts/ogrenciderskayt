@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ogrdersyonsis\ogrdersyonsis\bin\Debug\ogrdersyonsis.exe.config
+C:\Users\HP\source\repos\ogrdersyonsis\ogrdersyonsis\bin\Debug\ogrdersyonsis.exe
+C:\Users\HP\source\repos\ogrdersyonsis\ogrdersyonsis\bin\Debug\ogrdersyonsis.pdb
+C:\Users\HP\source\repos\ogrdersyonsis\ogrdersyonsis\obj\Debug\ogrdersyonsis.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ogrdersyonsis\ogrdersyonsis\obj\Debug\ogrdersyonsis.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ogrdersyonsis\ogrdersyonsis\obj\Debug\ogrdersyonsis.exe
+C:\Users\HP\source\repos\ogrdersyonsis\ogrdersyonsis\obj\Debug\ogrdersyonsis.pdb
