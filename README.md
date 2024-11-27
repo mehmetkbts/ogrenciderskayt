@@ -115,7 +115,7 @@ Ve şu metodları içerir:
 EnrollStudent(): Öğrencinin derse kaydını yapar.
 ShowCourseDetails(): Dersin detaylarını (ad, kredi, öğretim görevlisi, öğrenciler) gösterir.
 
-# Lisans
+# ©Lisans
 https://github.com/mehmetkbts
 
 
