@@ -28,7 +28,7 @@ Proje bir konsol uygulamasıdır ve kullanıcıya çeşitli seçenekler sunar. U
 Bir seçenek girin:
 
 
-Tabii! İşte kod aralarına konsol çıktısını dahil etmeden daha düzenli ve odaklanmış bir README dosyası:
+
 
 Öğrenci ve Ders Yönetim Sistemi
 Bu proje, öğrenci, öğretim görevlisi ve ders yönetimini simüle eden bir konsol uygulamasıdır. Kullanıcılar öğrenci ve öğretim görevlisi ekleyebilir, ders tanımlayabilir ve derslere öğrenci kaydedebilir. Ayrıca, öğrenci ve öğretim görevlisi bilgilerini görüntüleyebilirler.
@@ -49,20 +49,11 @@ Kayıtlı Öğrencileri Görüntüleme: Dersin hangi öğrenciler tarafından al
 Nasıl Çalıştırılır?
 Bu uygulama C# dilinde yazılmıştır ve Visual Studio veya başka bir C# IDE'sinde çalıştırılabilir. Aşağıdaki adımları izleyerek projeyi çalıştırabilirsiniz:
 
-Projeyi İndirin veya Klonlayın:
 
-bash
-Kodu kopyala
-git clone https://github.com/username/repository-name.git
-Projeyi Açın: Visual Studio veya tercih ettiğiniz bir C# IDE'sinde projeyi açın.
-
-Projeyi Çalıştırın: IDE üzerinden "Run" tuşuna basarak uygulamayı çalıştırabilirsiniz.
 
 Kullanıcı Arayüzü
 Proje bir konsol uygulamasıdır ve kullanıcıya çeşitli seçenekler sunar. Uygulama çalıştığında kullanıcı aşağıdaki menüyü görür:
 
-markdown
-Kodu kopyala
 Öğrenci ve Ders Yönetim Sistemi
 1. Öğrenci Tanımla
 2. Öğretim Görevlisi Tanımla
